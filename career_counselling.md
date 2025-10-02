@@ -1,9 +1,9 @@
-# Career Counselling — Evidence & Reflection
+Career Counselling — Evidence & Reflection
 
- Evidence
-- Due to health reasons, I could not attend the scheduled Career Counselling session.  
-- Instead, I conducted independent research on career readiness and guidance through online resources .  
-- I also reviewed job descriptions in ICT fields (Software Developer, ICT Support Technician, Systems Analyst) to understand employer expectations.  
+Evidence
+Due to health reasons, I could not attend the scheduled Career Counselling session.  
+Instead, I conducted independent research on career readiness and guidance through online resources .  
+I also reviewed job descriptions in ICT fields (Software Developer, ICT Support Technician, Systems Analyst) to understand employer expectations.  
 
 
 Reflection (STAR)
