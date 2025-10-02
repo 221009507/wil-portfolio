@@ -8,10 +8,10 @@ Xhosa (First Language, Proficient)
 English (Second Additional Language, Proficient)  
 Driver’s License:Valid  
 
-Profile
+Profile:
 I am a motivated, tech-savvy ICT student currently in the final year of a Diploma at Cape Peninsula University of Technology (CPUT). I hold a Higher Certificate in ICT and a Google IT Support Certificate. I am passionate about problem-solving, innovation, and continuous learning. Equipped with a valid driver’s license, I am eager to contribute positively to a team while gaining hands-on experience in the ICT industry.
 
-Skills
+Skills:
 Microsoft Office Suite    
 IT Support  
 Communication  
