@@ -18,6 +18,4 @@ I prepared my CV in PDF format, verified my GitHub repository link, and submitte
 Result: 
 The submission was successfully completed on 07 March 2025.
 
-Connection to Portfolio
 The screenshot and confirmation evidence prove that I submitted my CV and portfolio as required.  
-The STAR reflection explains the process and highlights accountability in meeting deadlines.  
