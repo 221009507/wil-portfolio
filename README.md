@@ -1,20 +1,20 @@
 Digital Portfolio — Work Readiness Training
 
+This portfolio documents the evidence and reflections from my Work Readiness Training.  
+It follows the assessment rubric and includes Career Counselling, Skills & Interests, Personality Assessment, CV, and CV Submission.  
 
-This portfolio documents evidence and reflections from the Work Readiness training. Use the menu below to navigate to each section.
 
-Sections
-- [Career Counselling](./career_counselling.md)
-- [Skills & Interests](./skills_interests.md)
-- [Personality Assessment](./personality.md)
-- [CV](./cv.md)
-- [CV Submission](./submissions.md)
+ Navigation
+ [Career Counselling](./career_counselling.md)  
+ [Skills & Interests](./skills_interests.md)  
+ [Personality Assessment](./personality.md)  
+ [Curriculum Vitae (CV)](./cv.md)  
+ [CV Submission](./submissions.md)  
 
-About me
 
-Name: Rethabile Kwatsha 221009507
-
-Modules: Applications Development Practise & Theory ,Information Systems, Project, Project Management ,Project Presentation
-
-Project: Security Tracking Website — 24-hour web-based security system
+About Me
+Name: Rethabile Kwatsha  
+Course: Diploma in Information and Communications Technology (Final Year)  
+Modules: Project Management, Applications Development (Theory & Practice), Information Systems, Project  
+Individual Project:** *24-hour Security Tracking Website* — a web-based system to manage alerts and enhance safety monitoring.  
 
