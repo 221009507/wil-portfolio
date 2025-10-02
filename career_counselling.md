@@ -1,28 +1,22 @@
 # Career Counselling — Evidence & Reflection
 
 ## Evidence
-- [Upload your certificate or screenshot here](./artifacts/career_counselling_certificate.pdf)
-- Notes or summary from counselling session (paste or attach PDF)
-- Any career action plan you drafted
+- Due to health reasons, I could not attend the scheduled Career Counselling session.  
+- Instead, I conducted independent research on career readiness and guidance through online resources .  
+- I also reviewed job descriptions in ICT fields (Software Developer, ICT Support Technician, Systems Analyst) to understand employer expectations.  
 
----
 
 ## Reflection (STAR)
 
 **Situation:**  
-I attended a career counselling workshop/session on [insert date]. The session focused on identifying career paths and preparing job application documents.  
+I was supposed to attend a career counselling session as part of Work Readiness training but could not due to health challenges. Despite this, I recognized the importance of planning my career path and reflecting on my goals.  
 
 **Task:**  
-My task was to reflect on my career goals, update my CV, and create a realistic action plan to improve employability.  
+My task was to identify alternative ways to gain career guidance and ensure I still benefited from the career readiness component of the training.  
 
 **Action:**  
-I worked with the career counsellor to highlight my technical strengths (Java, Spring Boot, React), identified suitable entry-level ICT roles, and set SMART goals (e.g., apply to 5 internships within 2 months).  
+I researched career advice from online professional platforms such as LinkedIn and Indeed. I also explored ICT-related job postings to understand the key skills and qualifications needed.
 
 **Result:**  
-I gained clarity on my short-term and long-term career objectives, improved my CV, and started applying to internship opportunities. This process boosted my confidence in presenting myself professionally.  
+Although I did not attend the physical session, I gained valuable insights into career planning. I now have a clearer understanding of the types of roles that align with my skills, the importance of tailoring my CV to job descriptions, and how continuous learning (certifications, coding practice) can increase my employability. This independent reflection allowed me to meet the learning outcomes despite my absence.  
 
----
-
-## Connection to Portfolio
-The evidence (certificate + notes) proves I attended career counselling.  
-The STAR reflection demonstrates how I used the session to take actionable steps toward my career development.  
