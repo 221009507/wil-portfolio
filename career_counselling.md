@@ -2,7 +2,7 @@ Career Counselling — Evidence & Reflection
 
 Evidence
 
-[Career Counselling Proof](./artifacts/Career Counselling.docx)
+[Career Counselling Proof](./artifacts/Career%20Counselling.docx)
 
 
 Due to health reasons, I could not attend the scheduled Career Counselling session.  
