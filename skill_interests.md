@@ -8,9 +8,11 @@ Technical skills list:
   - [Security Tracking Website (2025)](https://github.com/221009407/security-tracking-website)
     
 Certificates:
-<img width="1050" height="816" alt="Screenshot 2025-10-02 134113" src="https://github.com/user-attachments/assets/89509940-0c51-4658-8ea6-790b4e994e21" />
-<img width="1241" height="838" alt="Screenshot 2025-10-02 134203" src="https://github.com/user-attachments/assets/bde5ed20-680d-4b1e-92f9-60253df422f9" />
-<img width="1233" height="837" alt="Screenshot 2025-10-02 134133" src="https://github.com/user-attachments/assets/57868e04-cbad-47fa-af58-8724da220b1e" />
+[Google IT Certificate](artifacts/Google%20IT%20Certificate.pdf)
+[CyberSecurity Certificate](artifacts/Introduction_to_Cybersecurity_certificate_rethabilekwa13-gmail-com_bc6589ff-5839-4894-aad3-a3d64a2af158.pdf)
+[Entrepreneurship Certificate](/artifacts/Entrepreneurship_certificate_rethabilekwa13-gmail-com_eb0fd9d3-fc08-4461-9452-5c604668175f.pdf)
+
+
 
 Reflection (STAR)
 
