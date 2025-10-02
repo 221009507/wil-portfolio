@@ -1,13 +1,13 @@
 Skills & Interests — Evidence & Reflection
 
-Evidence
 Technical skills list:
-Programming: Java, Spring Boot, React, HTML, CSS, JavaScript
-Databases: MySQL
-Tools: IntelliJ IDEA, Visual Studio Code, Git/GitHub
-Repo links to projects:
-[Security Tracking Website (2025)](https://github.com/221009507/security-tracking-website)
-Certificates
+  - Programming: Java, Spring Boot, React, HTML, CSS, JavaScript
+  - Databases: MySQL, PostgreSQL
+  - Tools: IntelliJ IDEA, Visual Studio Code, Git/GitHub
+  - Repo link to project:
+  - [Security Tracking Website (2025)](https://github.com/221009407/security-tracking-website)
+    
+Certificates:
 <img width="1050" height="816" alt="Screenshot 2025-10-02 134113" src="https://github.com/user-attachments/assets/89509940-0c51-4658-8ea6-790b4e994e21" />
 <img width="1241" height="838" alt="Screenshot 2025-10-02 134203" src="https://github.com/user-attachments/assets/bde5ed20-680d-4b1e-92f9-60253df422f9" />
 <img width="1233" height="837" alt="Screenshot 2025-10-02 134133" src="https://github.com/user-attachments/assets/57868e04-cbad-47fa-af58-8724da220b1e" />
@@ -30,8 +30,8 @@ I also collaborated with peers for feedback and integrated GitHub for version co
 Result:
 Both projects successfully demonstrated my ability to apply coding, database, and project management skills in practice. It boosted my problem-solving skills and increased my confidence in development.  
 
-Interests
-Web development 
-Project management
-Exploring cybersecurity fundamentals  
-Continuous learning through online platforms LinkedIn Learning and Coursera. 
+Interests:
+- Web development 
+- Project management
+- Exploring cybersecurity fundamentals  
+- Continuous learning through online platforms LinkedIn Learning and Coursera. 
