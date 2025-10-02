@@ -4,9 +4,9 @@ Evidence
 Assessment: Completed Personality Assessment (Project Presentation 3)  
 Date Submitted: 21/02/2025 
 Final Mark: 100 / 100  
-Completion Status: 100% Attempted and Complete  
+Completion Status: 100% Attempted and Complete 
 
-<img width="1847" height="944" alt="Screenshot 2025-10-02 205701" src="https://github.com/user-attachments/assets/0f7d4a5d-f2f4-4dc4-8f25-3eb355f7fa8a" />
+[Personality Assessment](artifacts/Screenshot%202025-10-02%20140734.png)
 
 Reflection (STAR Technique)
  
