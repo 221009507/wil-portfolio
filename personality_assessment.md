@@ -6,7 +6,7 @@ Date Submitted: 21/02/2025
 Final Mark: 100 / 100  
 Completion Status: 100% Attempted and Complete  
 
-![Personality Assessment Screenshot](./artifacts/personality_assessment.png)
+<img width="1847" height="944" alt="Screenshot 2025-10-02 205701" src="https://github.com/user-attachments/assets/0f7d4a5d-f2f4-4dc4-8f25-3eb355f7fa8a" />
 
 Reflection (STAR Technique)
  
@@ -21,7 +21,6 @@ I carefully read through each question, analyzing possible answers based on my o
 
 Result:
 I successfully achieved a 100% final score. The results confirmed my ability to reflect on personality types such as realistic, artistic, and analytical, and match them with appropriate career fields. This demonstrated my attention to detail and perseverance.  
-
 
 Key Learning
 I learned that my personality traits align with structured and analytical problem-solving, which fits well with ICT careers.  
