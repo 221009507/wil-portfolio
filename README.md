@@ -15,6 +15,6 @@ It follows the assessment rubric and includes **Career Counselling, Skills & Int
 ##  About Me
 **Name:** Rethabile Kwatsha  
 **Course:** Diploma in Information and Communications Technology (Final Year)  
-**Modules:** Project Management, Applications Development (Theory & Practice), Information Systems, Project  
+**Modules:** Project Management, Applications Development (Theory & Practice), Information Systems, Project and Project Presentation
 **Individual Project:** *24-hour Security Tracking Website* — a web-based system to manage alerts and enhance safety monitoring.  
 
