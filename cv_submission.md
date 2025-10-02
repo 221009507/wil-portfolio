@@ -1,8 +1,7 @@
 CV Submission — Evidence & Reflection
 
 Evidence
-Blackboard submission page
-<img width="1919" height="981" alt="Screenshot 2025-10-02 213848" src="https://github.com/user-attachments/assets/5f770499-316b-4f70-a85a-a8f15f0a8142" />
+[Blackboard submission page](artifacts/Screenshot%202025-10-02%20213848.png)
 
 Reflection (STAR)
 
