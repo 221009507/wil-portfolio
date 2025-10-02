@@ -9,7 +9,7 @@ It follows the assessment rubric and includes **Career Counselling, Skills & Int
 - [Skills & Interests](skill_interests.md)  
 - [Personality Assessment](./personality.md)  
 - [Curriculum Vitae (CV)](create_cv.md)  
-- [CV Submission](./submissions.md)  
+- [CV Submission](cv_submission.md)  
 
 
 ##  About Me
