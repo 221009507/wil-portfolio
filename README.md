@@ -5,14 +5,14 @@ It follows the assessment rubric and includes Career Counselling, Skills & Inter
 
 
  Navigation
- [Career Counselling](./career_counselling.md)  
- [Skills & Interests](./skills_interests.md)  
- [Personality Assessment](./personality.md)  
- [Curriculum Vitae (CV)](./cv.md)  
- [CV Submission](./submissions.md)  
+- [Career Counselling](./career_counselling.md)  
+- [Skills & Interests](./skills_interests.md)  
+-[Personality Assessment](./personality.md)  
+- [Curriculum Vitae (CV)](./cv.md)  
+- [CV Submission](./submissions.md)  
 
 
-About Me
+About Me:
 Name: Rethabile Kwatsha  
 Course: Diploma in Information and Communications Technology (Final Year)  
 Modules: Project Management, Applications Development (Theory & Practice), Information Systems, Project  
