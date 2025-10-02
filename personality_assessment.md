@@ -22,7 +22,8 @@ I carefully read through each question, analyzing possible answers based on my o
 Result:
 I successfully achieved a 100% final score. The results confirmed my ability to reflect on personality types such as realistic, artistic, and analytical, and match them with appropriate career fields. This demonstrated my attention to detail and perseverance.  
 
-Key Learning
+Key Learning:
+
 I learned that my personality traits align with structured and analytical problem-solving, which fits well with ICT careers.  
 The test reinforced the importance of self-awareness in choosing a career path.  
 My results give me confidence that I can adapt to different environments and work effectively in professional roles.  
